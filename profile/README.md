@@ -11,4 +11,6 @@
 <sub>팀원 임상현</sub> <br>
 <sub>팀원 유진우 </sub>
 
+<a href="https://drive.google.com/file/d/12RK9HkBamZDOR1NeYZjJHzEyp9GFAOoM/view?usp=drive_link">APK file</a>
+
 </div>
